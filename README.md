@@ -6,4 +6,8 @@ book tickets, view user ticket information and access logged in user information
 
 The program reads the schedules of the movies from a .txt file that has been made beforehand.
 
-I would be defenitely able to add features and make the code better/cleaner, but I need to work on my university`s other projects as well atm.
+Im using simple commands with while, for loops. Also different if, elseif,else statements. I implemented different functions for the main menu as well to give the code a better look. There is some file reading and writing and user input checks.
+
+
+
+I would be defenitely able to add features and make the code better/cleaner, but I need to work on my university`s other projects as well atm. I would add some classes, for example, ticket/movie.
