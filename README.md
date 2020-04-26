@@ -1,3 +1,8 @@
+.zip includes all the necassery files
+cpp file has only the code
+
+
+
 # My-firs-cpp-project---Movie-ticket-booking-system
 This is my first c++ project for my university task. I made a nice simple movie ticket booking program. This one is without GUI.
 
